@@ -19,7 +19,7 @@ Day 5 (9th July 2023) : Quality of Results (QOR) generation, optimization to pre
 
 # Daywise Workshop Progress
 
-- [Day 1 : 5th July 2023](#Day-1-:-5th-July-2023)
+- [Day 1 5th July 2023](#Day-1-5th-July-2023)
 - 
 - [Day 1 : 5th July 2023](#Day-1-:-5th-July-2023)
 
