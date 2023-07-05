@@ -17,7 +17,7 @@ Day 4 (8th July 2023) : Introduction to Yosys synthesis tool, understanding memo
 
 Day 5 (9th July 2023) : Quality of Results (QOR) generation, optimization to precise WNS and FEP analysis.
 
-# Daywise Workshop Progress
+# Day-wise Workshop Progress
 
 - [Day 1 5th July 2023](#Day-1-5th-July-2023)
 - [Day 2 6th July 2023](#Day-2-6th-July-2023)
