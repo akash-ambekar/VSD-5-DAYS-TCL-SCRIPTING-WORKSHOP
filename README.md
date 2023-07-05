@@ -9,10 +9,24 @@ TCL scripting plays a crucial role in the field of VLSI design and verification,
 VLSI System Design Corp. Pvt. Ltd. had proposed this 5 days workshop entitled as "TCL Workshop: From Introduction to Advanced Scripting Techniques in Design and Synthesis
 " from 5th July 2023 to 9the July 2023 with the guidance of Mr. Kunal Ghosh, Co-Founder, VSD Corp. Pvt. Ltd. and Ms. Geetima Kachari who had been working as the Teaching Assistant throughout the entire workshop. The agenda for the workshop is as follows :
 
-Day 1 : Serving as the foundation, introduction to the core concepts and tasks of TCL. 
+Day 1 (5th July 2023) : Serving as the foundation, introduction to the core concepts and tasks of TCL. 
 
-Days 2 & 3 : Immersing in the art of variable creation and processing constraints. 
+Days 2 & 3 (6th & 7th July 2023): Immersing in the art of variable creation and processing constraints. 
 
-Day 4 : Introduction to Yosys synthesis tool, understanding memory module RTL descriptions, and mastering gate level netlist descriptions.
+Day 4 (8th July 2023) : Introduction to Yosys synthesis tool, understanding memory module RTL descriptions, and mastering gate level netlist descriptions.
 
-Day 5 : Quality of Results (QOR) generation, optimization to precise WNS and FEP analysis.
+Day 5 (9th July 2023) : Quality of Results (QOR) generation, optimization to precise WNS and FEP analysis.
+
+# Daywise Workshop Progress
+
+- [Day 1 (5th July 2023)](#Day 1 (5th July 2023))
+
+# Day 1 (5th July 2023)
+
+# Day 2 (6th July 2023)
+
+# Day 3 (7th July 2023)
+
+# Day 4 (8th July 2023)
+
+# Day 5 (9th July 2023)
