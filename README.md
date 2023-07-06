@@ -93,6 +93,26 @@ Case 4) Command Line Argument Doesn't Exist
 
 # Day 2 6th July 2023
 
+# Tasks of the Day :
+
+    • Auto Variable Creation
+    • Checking if provided directories exist at respective locations, display an error if not found.....
+    • Convert the inputs into a format that can be passed to Yosys Synthesis Tool
+
+# Results 
+
+1) Passing Inputs Path from .csv file to the Scripts :
+
+![image](https://github.com/akash-ambekar/VSD-5-DAYS-TCL-SCRIPTING-WORKSHOP/assets/100372947/f6be436e-d4fa-4877-9be8-e9c02362d873)
+
+2) Checking the directories for given input path exists at respective locations or not :
+
+![image](https://github.com/akash-ambekar/VSD-5-DAYS-TCL-SCRIPTING-WORKSHOP/assets/100372947/e26ff860-a5f2-431c-8b68-2a8d4a3271b8)
+
+3) Display an Error if the directory is not found at given location :
+
+![image](https://github.com/akash-ambekar/VSD-5-DAYS-TCL-SCRIPTING-WORKSHOP/assets/100372947/ad894d25-b412-4f3d-b09c-1cd070b1e5cd)
+
 # Day 3 7th July 2023
 
 # Day 4 8th July 2023
