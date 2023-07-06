@@ -115,6 +115,21 @@ Case 4) Command Line Argument Doesn't Exist
 
 # Day 3 7th July 2023
 
+# Tasks of the Day :
+
+    • Read the Clock, Input & Output Constraints from the file and create Synopsys Design Constraints (SDC) Format .sdc file
+    • Take care of the bus port to create SDC file
+    • Verify the generated .sdc file
+
+# Results 
+
+1) Terminal Log
+
+![image](https://github.com/akash-ambekar/VSD-5-DAYS-TCL-SCRIPTING-WORKSHOP/assets/100372947/f2be94c5-21b4-4c34-a6d5-25cdb31b8e62)
+
+
+2) Generated SDC File
+    
 # Day 4 8th July 2023
 
 # Day 5 9th July 2023
