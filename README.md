@@ -37,21 +37,39 @@ Day 5 (9th July 2023) : Quality of Results (QOR) generation, optimization to pre
 
 
     #!/bin/tcsh -f
+    
     echo "\n\n\n\n\t\t\t\t\t\tSYNTHIA\n\n"
+    
     echo "\t\tAn automation created by Akash Ambekar for the Synthesis using TCL Scripting"
+    
     echo "\t\t\t\tDuring the 5-Days Workshop entiled as :"
+    
     echo "\tTCL Workshop: From Introduction to Advanced Scripting Techniques in Design and Synthesis"
-    echo "\t\t\torganized By: VLSI System Design Corp. Pvt. Ltd." echo
-    echo 
+    
+    echo "\t\t\torganized By: VLSI System Design Corp. Pvt. Ltd."
+    
     echo
+    
+    echo 
+    
+    echo
+    
     if ($#argv != 1) then
+    
         echo "SYNTHIA Info: Please provide a proper the csv file" exit 1
+        
     endif
+    
     if (!-f $argv[1]) then
+    
         echo "SYNTHIA Error: Cannot find csv file $argv[1] in Directory. Exiting the Flow..."
+        
         exit 1
+        
     else
+    
         tclsh synthia.tcl $argv[1]
+        
     endif
 
 # Results : 
