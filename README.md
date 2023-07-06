@@ -129,7 +129,10 @@ Case 4) Command Line Argument Doesn't Exist
 
 
 2) Generated SDC File
-    
+
+![image](https://github.com/akash-ambekar/VSD-5-DAYS-TCL-SCRIPTING-WORKSHOP/assets/100372947/b5ce8555-2bc4-4800-9be8-966a64de2aa1)
+
+
 # Day 4 8th July 2023
 
 # Day 5 9th July 2023
