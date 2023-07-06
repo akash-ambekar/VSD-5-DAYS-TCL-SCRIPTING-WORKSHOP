@@ -76,11 +76,20 @@ Day 5 (9th July 2023) : Quality of Results (QOR) generation, optimization to pre
 
 Case 1) Normal Command Line Argument Passing
 
+![image](https://github.com/akash-ambekar/VSD-5-DAYS-TCL-SCRIPTING-WORKSHOP/assets/100372947/b1be5101-3f8d-476d-8156-144e051716a4)
+
 Case 2) No Command Line Argument
+
+![image](https://github.com/akash-ambekar/VSD-5-DAYS-TCL-SCRIPTING-WORKSHOP/assets/100372947/d22920ec-11b0-4335-99c2-320b56c3575d)
 
 Case 3) Multiple Command Line Arguments
 
+![image](https://github.com/akash-ambekar/VSD-5-DAYS-TCL-SCRIPTING-WORKSHOP/assets/100372947/7f4373c8-3e55-4243-bc12-c193d8d39695)
+
 Case 4) Command Line Argument Doesn't Exist
+
+![image](https://github.com/akash-ambekar/VSD-5-DAYS-TCL-SCRIPTING-WORKSHOP/assets/100372947/566fea5d-3cd7-4902-af2a-03e406768235)
+
 
 # Day 2 6th July 2023
 
