@@ -33,7 +33,7 @@ Day 5 (9th July 2023) : Quality of Results (QOR) generation, optimization to pre
     • Invoke TCL Command by accepting command line arguments
     • Deal with issues to pass command line argument to TCL Script (Eg. No Argument, Multiple Arguments, Argument doesn't exist)
 
-# Script of the Day :
+# Bash Script Input to Designed TCL Automation :
 
 
     #!/bin/tcsh -f
@@ -134,5 +134,11 @@ Case 4) Command Line Argument Doesn't Exist
 
 
 # Day 4 8th July 2023
+
+# Tasks of the Day :
+
+    • Create a synthesis script which can be passed as argument to Yosys Synthesis Tool
+    • Run the hierarchy check to verify if all RTL modules are correctly present or not, raise an error if not.
+    • Deal with issues to pass command line argument to TCL Script (Eg. No Argument, Multiple Arguments, Argument doesn't exist)
 
 # Day 5 9th July 2023
