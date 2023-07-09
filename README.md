@@ -2,6 +2,12 @@
 
 TCL scripting plays a crucial role in the field of VLSI design and verification, making it an indispensable tool for semiconductor engineers. VLSI projects involve complex tasks such as chip design, simulation, verification, and manufacturing, and TCL scripting provides an efficient and flexible way to automate these processes. With TCL, engineers can write scripts to automate design tasks, perform simulations, analyze data, and generate reports, significantly reducing the time and effort required for repetitive tasks. TCL also offers excellent integration capabilities, allowing seamless interaction with other EDA tools and languages. Moreover, TCL scripting provides a high level of control and customization, enabling engineers to create complex workflows and implement design methodologies specific to their requirements. Overall, TCL scripting empowers VLSI engineers to enhance productivity, streamline workflows, and accelerate the development and verification of advanced integrated circuits.
 
+- [Workshop Details & Agenda](#Workshop-Details-&-Agenda)
+- [Day-wise Workshop Progress](#Day-wise-Workshop-Progress)
+- [Quality of Results (QoR)](#Quality-of-Results-(QoR))
+- [Conclusion](#Conclusion)
+- [Acknowledgements](#Acknowledgements)
+  
 # Workshop Details & Agenda
 
 ![image](https://github.com/akash-ambekar/VSD-5-DAYS-TCL-SCRIPTING-WORKSHOP/assets/100372947/97e1264e-31a7-4539-a21b-639e3dd31e13)
@@ -183,7 +189,16 @@ Case 4) Command Line Argument Doesn't Exist
 
 # Quality of Results (QoR)
 
+![image](https://github.com/akash-ambekar/VSD-5-DAYS-TCL-SCRIPTING-WORKSHOP/assets/100372947/d83df745-d165-4c6a-a0da-348852578f63)
 
 # Conclusion 
 
-An Automation called "SYNTHIA" has been successfully created using TCL scripting which will take the input from the user as RTL Verilog Code files and library paths and will synthesize the equivalent hardware for it, will run the static timing analysis (STA) and will display the Quality of Results (QoR)
+An Automation called "SYNTHIA" has been successfully created using TCL scripting which will take the input from the user as RTL Verilog Code files and library paths and will synthesize the equivalent hardware for it, will run the static timing analysis (STA) and will display the Quality of Results (QoR).
+
+# Acknowledgments
+
+1) Mr. Kunal Ghosh, Co-Founder, VSD Corp. Pvt. Ltd.
+
+2) T R Visruat
+
+3) Geetima Kachari
